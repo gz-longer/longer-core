@@ -1,0 +1,4 @@
+2012-05-01 09:31:44  [ main:55 ] - [ ERROR ]  java.lang.IllegalAccessException: Class net.longersoft.framework.ServiceHandler can not access a member of class tests.core.TestWebService$MyWebService with modifiers ""
+ 2012-05-01 12:02:03  [ main:6 ] - [ ERROR ]  java.lang.IllegalArgumentException: argument type mismatch
+ 2012-05-01 12:03:25  [ main:6 ] - [ ERROR ]  java.lang.IllegalArgumentException: argument type mismatch
+ 
